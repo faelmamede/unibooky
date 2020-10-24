@@ -1,4 +1,4 @@
-# Unibooy
+# Unibooky
 ## Software to facilitate the searching and publishing about scientific articles. 
 
 <div>
