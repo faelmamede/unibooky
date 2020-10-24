@@ -1,0 +1,34 @@
+:root {
+  --color-background: #224587;
+  --color-primary-lighter: #000;
+  --color-primary-light: #000;
+  --color-primary: #000;
+  --color-primary-dark: #000;
+  --color-primary-darker: #000;
+  --color-secondary: #000;
+  --color-secondary-dark: #000;
+  --color-title-in-primary: #000;
+  --color-text-in-primary: #000;
+  --color-text-title: #ccc;
+  --color-text-complement: #000;
+  --color-text-base: #000;
+  --color-line-in-white: #000;
+  --color-input-background: #000;
+  --color-button-text: #000;
+  --color-box-base: #000;
+  --color-box-footer: #000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100vh;
+}
+
+body {
+  background: var(--color-background);
+}
